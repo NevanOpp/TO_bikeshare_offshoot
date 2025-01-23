@@ -1,0 +1,470 @@
+{
+    "features": [
+        {
+            "mapbox_id": "dXJuOm1ieGFkcjpjNTdmOWVmNy0yMzc5LTQwMmItOTc0ZC1lMTM3NTJjOWEwNDE",
+            "feature_type": "address",
+            "full_address": "491 Eglinton Avenue West, Toronto, Ontario M5N 1A8, Canada",
+            "name": "491 Eglinton Avenue West",
+            "name_preferred": "491 Eglinton Avenue West",
+            "coordinates": {
+                "longitude": -79.41285,
+                "latitude": 43.703459,
+                "accuracy": "rooftop",
+                "routable_points": [
+                    {
+                        "name": "default",
+                        "latitude": 43.703658,
+                        "longitude": -79.41293
+                    }
+                ]
+            },
+            "place_formatted": "Toronto, Ontario M5N 1A8, Canada",
+            "match_code": {
+                "address_number": "matched",
+                "street": "matched",
+                "postcode": "matched",
+                "place": "matched",
+                "region": "unmatched",
+                "locality": "not_applicable",
+                "country": "matched",
+                "confidence": "medium"
+            },
+            "context": {
+                "address": {
+                    "mapbox_id": "dXJuOm1ieGFkcjpjNTdmOWVmNy0yMzc5LTQwMmItOTc0ZC1lMTM3NTJjOWEwNDE",
+                    "address_number": "491",
+                    "street_name": "Eglinton Avenue West",
+                    "name": "491 Eglinton Avenue West"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6YzU3ZjllZjctMjM3OS00MDJiLTk3NGQtZTEzNzUyYzlhMDQx",
+                    "name": "Eglinton Avenue West"
+                },
+                "neighborhood": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpoZ3du",
+                    "name": "Forest Hill",
+                    "wikidata_id": "Q3077160",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Forest Hill"
+                        }
+                    }
+                },
+                "postcode": {
+                    "mapbox_id": "postcode.2772524607723700",
+                    "name": "M5N 1A8"
+                },
+                "locality": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBOEtxSnc",
+                    "name": "Midtown",
+                    "wikidata_id": "Q6843067",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Midtown"
+                        }
+                    }
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCTTlJSnc",
+                    "name": "Toronto",
+                    "wikidata_id": "Q172",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Toronto"
+                        }
+                    }
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpSQ2M",
+                    "name": "Ontario",
+                    "wikidata_id": "Q1904",
+                    "region_code": "ON",
+                    "region_code_full": "CA-ON",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Ontario"
+                        }
+                    }
+                },
+                "country": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpJaWM",
+                    "name": "Canada",
+                    "wikidata_id": "Q16",
+                    "country_code": "CA",
+                    "country_code_alpha_3": "CAN",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Canada"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKeElqb2lORGt4SUVWbmJHbHVkRzl1SUVGMlpTQlhJRk4xYVhSbElERXdNQ3dnVkc5eWIyNTBieXdnVDA0Z1RUVk9JREZCT0N3Z1EyRnVZV1JoSWl3aVkyOTFiblJ5ZVNJNkltTmhJaXdpWm05eWJXRjBJam9pYW5OdmJpSXNJblI1Y0dVaU9pSmhaR1J5WlhOeklpd2liR0Z1WjNWaFoyVWlPaUpsYmlJc0luSmxaMmx2YmlJNklrTkJMVTlPSWl3aVltSnZlQ0k2SWkwM09TNDNNalF6T0RNek5qa3dPREk0Tml3ME15NDFPRFEyTkRFd016VXhPRFF4TlN3dE56a3VNREF6TmpBek1USXhOVE0wTml3ME15NDRORGs0TlRFMU5EQTBNekE0TWlJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+            "feature_type": "address",
+            "full_address": "491 Eglinton Avenue West, Mississauga, Ontario L5M 7P4, Canada",
+            "name": "491 Eglinton Avenue West",
+            "name_preferred": "491 Eglinton Avenue West",
+            "coordinates": {
+                "longitude": -79.665991,
+                "latitude": 43.594979,
+                "accuracy": "interpolated",
+                "routable_points": [
+                    {
+                        "name": "default",
+                        "latitude": 43.594979,
+                        "longitude": -79.665991
+                    }
+                ]
+            },
+            "place_formatted": "Mississauga, Ontario L5M 7P4, Canada",
+            "match_code": {
+                "address_number": "plausible",
+                "street": "matched",
+                "postcode": "unmatched",
+                "place": "unmatched",
+                "region": "unmatched",
+                "locality": "not_applicable",
+                "country": "matched",
+                "confidence": "low"
+            },
+            "context": {
+                "address": {
+                    "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKeElqb2lORGt4SUVWbmJHbHVkRzl1SUVGMlpTQlhJRk4xYVhSbElERXdNQ3dnVkc5eWIyNTBieXdnVDA0Z1RUVk9JREZCT0N3Z1EyRnVZV1JoSWl3aVkyOTFiblJ5ZVNJNkltTmhJaXdpWm05eWJXRjBJam9pYW5OdmJpSXNJblI1Y0dVaU9pSmhaR1J5WlhOeklpd2liR0Z1WjNWaFoyVWlPaUpsYmlJc0luSmxaMmx2YmlJNklrTkJMVTlPSWl3aVltSnZlQ0k2SWkwM09TNDNNalF6T0RNek5qa3dPREk0Tml3ME15NDFPRFEyTkRFd016VXhPRFF4TlN3dE56a3VNREF6TmpBek1USXhOVE0wTml3ME15NDRORGs0TlRFMU5EQTBNekE0TWlJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDox",
+                    "address_number": "491",
+                    "street_name": "Eglinton Avenue West",
+                    "name": "491 Eglinton Avenue West"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SnhJam9pTkRreElFVm5iR2x1ZEc5dUlFRjJaU0JYSUZOMWFYUmxJREV3TUN3Z1ZHOXliMjUwYnl3Z1QwNGdUVFZPSURGQk9Dd2dRMkZ1WVdSaElpd2lZMjkxYm5SeWVTSTZJbU5oSWl3aVptOXliV0YwSWpvaWFuTnZiaUlzSW5SNWNHVWlPaUpoWkdSeVpYTnpJaXdpYkdGdVozVmhaMlVpT2lKbGJpSXNJbkpsWjJsdmJpSTZJa05CTFU5T0lpd2lZbUp2ZUNJNklpMDNPUzQzTWpRek9ETXpOamt3T0RJNE5pdzBNeTQxT0RRMk5ERXdNelV4T0RReE5Td3ROemt1TURBek5qQXpNVEl4TlRNME5pdzBNeTQ0TkRrNE5URTFOREEwTXpBNE1pSXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6MQ",
+                    "name": "Eglinton Avenue West"
+                },
+                "neighborhood": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpzV3du",
+                    "name": "Hurontario",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Hurontario"
+                        }
+                    }
+                },
+                "postcode": {
+                    "mapbox_id": "postcode.2293796195511604",
+                    "name": "L5M 7P4"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBdTFJSnc",
+                    "name": "Mississauga",
+                    "wikidata_id": "Q50816",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Mississauga"
+                        }
+                    }
+                },
+                "district": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpFU1lu",
+                    "name": "Peel County",
+                    "wikidata_id": "Q7160206",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Peel County"
+                        }
+                    }
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpSQ2M",
+                    "name": "Ontario",
+                    "wikidata_id": "Q1904",
+                    "region_code": "ON",
+                    "region_code_full": "CA-ON",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Ontario"
+                        }
+                    }
+                },
+                "country": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpJaWM",
+                    "name": "Canada",
+                    "wikidata_id": "Q16",
+                    "country_code": "CA",
+                    "country_code_alpha_3": "CAN",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Canada"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKeElqb2lORGt4SUVWbmJHbHVkRzl1SUVGMlpTQlhJRk4xYVhSbElERXdNQ3dnVkc5eWIyNTBieXdnVDA0Z1RUVk9JREZCT0N3Z1EyRnVZV1JoSWl3aVkyOTFiblJ5ZVNJNkltTmhJaXdpWm05eWJXRjBJam9pYW5OdmJpSXNJblI1Y0dVaU9pSmhaR1J5WlhOeklpd2liR0Z1WjNWaFoyVWlPaUpsYmlJc0luSmxaMmx2YmlJNklrTkJMVTlPSWl3aVltSnZlQ0k2SWkwM09TNDNNalF6T0RNek5qa3dPREk0Tml3ME15NDFPRFEyTkRFd016VXhPRFF4TlN3dE56a3VNREF6TmpBek1USXhOVE0wTml3ME15NDRORGs0TlRFMU5EQTBNekE0TWlJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoy",
+            "feature_type": "address",
+            "full_address": "491 Eglinton Avenue East, Toronto, Ontario M4P 1L8, Canada",
+            "name": "491 Eglinton Avenue East",
+            "name_preferred": "491 Eglinton Avenue East",
+            "coordinates": {
+                "longitude": -79.383579,
+                "latitude": 43.709742,
+                "accuracy": "interpolated",
+                "routable_points": [
+                    {
+                        "name": "default",
+                        "latitude": 43.709742,
+                        "longitude": -79.383579
+                    }
+                ]
+            },
+            "place_formatted": "Toronto, Ontario M4P 1L8, Canada",
+            "match_code": {
+                "address_number": "plausible",
+                "street": "unmatched",
+                "postcode": "unmatched",
+                "place": "matched",
+                "region": "unmatched",
+                "locality": "not_applicable",
+                "country": "matched",
+                "confidence": "low"
+            },
+            "context": {
+                "address": {
+                    "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKeElqb2lORGt4SUVWbmJHbHVkRzl1SUVGMlpTQlhJRk4xYVhSbElERXdNQ3dnVkc5eWIyNTBieXdnVDA0Z1RUVk9JREZCT0N3Z1EyRnVZV1JoSWl3aVkyOTFiblJ5ZVNJNkltTmhJaXdpWm05eWJXRjBJam9pYW5OdmJpSXNJblI1Y0dVaU9pSmhaR1J5WlhOeklpd2liR0Z1WjNWaFoyVWlPaUpsYmlJc0luSmxaMmx2YmlJNklrTkJMVTlPSWl3aVltSnZlQ0k2SWkwM09TNDNNalF6T0RNek5qa3dPREk0Tml3ME15NDFPRFEyTkRFd016VXhPRFF4TlN3dE56a3VNREF6TmpBek1USXhOVE0wTml3ME15NDRORGs0TlRFMU5EQTBNekE0TWlJc0ltbHVZMngxWkdWZmJXRjBZMmhmWkdWMFlXbHNJam9pZEhKMVpTSXNJbTF2WkdVaU9pSm1iM0ozWVhKa0luMDoy",
+                    "address_number": "491",
+                    "street_name": "Eglinton Avenue East",
+                    "name": "491 Eglinton Avenue East"
+                },
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHItaXRwOmV5SnhJam9pTkRreElFVm5iR2x1ZEc5dUlFRjJaU0JYSUZOMWFYUmxJREV3TUN3Z1ZHOXliMjUwYnl3Z1QwNGdUVFZPSURGQk9Dd2dRMkZ1WVdSaElpd2lZMjkxYm5SeWVTSTZJbU5oSWl3aVptOXliV0YwSWpvaWFuTnZiaUlzSW5SNWNHVWlPaUpoWkdSeVpYTnpJaXdpYkdGdVozVmhaMlVpT2lKbGJpSXNJbkpsWjJsdmJpSTZJa05CTFU5T0lpd2lZbUp2ZUNJNklpMDNPUzQzTWpRek9ETXpOamt3T0RJNE5pdzBNeTQxT0RRMk5ERXdNelV4T0RReE5Td3ROemt1TURBek5qQXpNVEl4TlRNME5pdzBNeTQ0TkRrNE5URTFOREEwTXpBNE1pSXNJbWx1WTJ4MVpHVmZiV0YwWTJoZlpHVjBZV2xzSWpvaWRISjFaU0lzSW0xdlpHVWlPaUptYjNKM1lYSmtJbjA6Mg",
+                    "name": "Eglinton Avenue East"
+                },
+                "neighborhood": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpYeXdu",
+                    "name": "Davisville",
+                    "wikidata_id": "Q5242033",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Davisville"
+                        }
+                    }
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzorRlpPSnc",
+                    "name": "M4P 1L8"
+                },
+                "locality": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZ1hLSnc",
+                    "name": "Uptown",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Uptown"
+                        }
+                    }
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCTTlJSnc",
+                    "name": "Toronto",
+                    "wikidata_id": "Q172",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Toronto"
+                        }
+                    }
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpSQ2M",
+                    "name": "Ontario",
+                    "wikidata_id": "Q1904",
+                    "region_code": "ON",
+                    "region_code_full": "CA-ON",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Ontario"
+                        }
+                    }
+                },
+                "country": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpJaWM",
+                    "name": "Canada",
+                    "wikidata_id": "Q16",
+                    "country_code": "CA",
+                    "country_code_alpha_3": "CAN",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Canada"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "mapbox_id": "dXJuOm1ieHBsYzorcEVPSnc",
+            "feature_type": "postcode",
+            "full_address": "M5N 1A8, Toronto, Ontario, Canada",
+            "name": "M5N 1A8",
+            "name_preferred": "M5N 1A8",
+            "coordinates": {
+                "longitude": -79.412865,
+                "latitude": 43.703487
+            },
+            "place_formatted": "Toronto, Ontario, Canada",
+            "bbox": [
+                -79.412913,
+                43.703453,
+                -79.412823,
+                43.703518
+            ],
+            "context": {
+                "locality": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBOEtxSnc",
+                    "name": "Midtown",
+                    "wikidata_id": "Q6843067",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Midtown"
+                        }
+                    }
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCTTlJSnc",
+                    "name": "Toronto",
+                    "wikidata_id": "Q172",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Toronto"
+                        }
+                    }
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpSQ2M",
+                    "name": "Ontario",
+                    "wikidata_id": "Q1904",
+                    "region_code": "ON",
+                    "region_code_full": "CA-ON",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Ontario"
+                        }
+                    }
+                },
+                "country": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpJaWM",
+                    "name": "Canada",
+                    "wikidata_id": "Q16",
+                    "country_code": "CA",
+                    "country_code_alpha_3": "CAN",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Canada"
+                        }
+                    }
+                },
+                "postcode": {
+                    "mapbox_id": "dXJuOm1ieHBsYzorcEVPSnc",
+                    "name": "M5N 1A8"
+                }
+            }
+        },
+        {
+            "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjE5ZjEyYWUtZTJlNS00MTY4LThhYTMtNTkwOGExN2NmYTMz",
+            "feature_type": "street",
+            "full_address": "West Toronto Street, Toronto, Ontario M6N 3C9, Canada",
+            "name": "West Toronto Street",
+            "name_preferred": "West Toronto Street",
+            "coordinates": {
+                "longitude": -79.470471,
+                "latitude": 43.669142
+            },
+            "place_formatted": "Toronto, Ontario M6N 3C9, Canada",
+            "context": {
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6YjE5ZjEyYWUtZTJlNS00MTY4LThhYTMtNTkwOGExN2NmYTMz",
+                    "name": "West Toronto Street"
+                },
+                "neighborhood": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpBVytNSnc",
+                    "name": "The Junction",
+                    "wikidata_id": "Q7743816",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "The Junction"
+                        }
+                    }
+                },
+                "postcode": {
+                    "mapbox_id": "postcode.7944036126723976",
+                    "name": "M6N 3C9"
+                },
+                "locality": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCa0hLSnc",
+                    "name": "West End",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "West End"
+                        }
+                    }
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCTTlJSnc",
+                    "name": "Toronto",
+                    "wikidata_id": "Q172",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Toronto"
+                        }
+                    }
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpSQ2M",
+                    "name": "Ontario",
+                    "wikidata_id": "Q1904",
+                    "region_code": "ON",
+                    "region_code_full": "CA-ON",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Ontario"
+                        }
+                    }
+                },
+                "country": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpJaWM",
+                    "name": "Canada",
+                    "wikidata_id": "Q16",
+                    "country_code": "CA",
+                    "country_code_alpha_3": "CAN",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Canada"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "attribution": "NOTICE: © 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}

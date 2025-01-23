@@ -1,0 +1,64 @@
+{
+    "features": [
+        {
+            "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjU2ZjQ0ZGQtNGVhYS00NzFjLTllMmQtOTAwOWVjNGE0YTRm",
+            "feature_type": "street",
+            "full_address": "Towns Road, Etobicoke, Ontario M8Z 1A2, Canada",
+            "name": "Towns Road",
+            "name_preferred": "Towns Road",
+            "coordinates": {
+                "longitude": -79.52151,
+                "latitude": 43.604525
+            },
+            "place_formatted": "Etobicoke, Ontario M8Z 1A2, Canada",
+            "context": {
+                "street": {
+                    "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjU2ZjQ0ZGQtNGVhYS00NzFjLTllMmQtOTAwOWVjNGE0YTRm",
+                    "name": "Towns Road"
+                },
+                "postcode": {
+                    "mapbox_id": "postcode.38846364554688",
+                    "name": "M8Z 1A2"
+                },
+                "place": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpCZXZvSnc",
+                    "name": "Etobicoke",
+                    "wikidata_id": "Q1020159",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Etobicoke"
+                        }
+                    }
+                },
+                "region": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpSQ2M",
+                    "name": "Ontario",
+                    "wikidata_id": "Q1904",
+                    "region_code": "ON",
+                    "region_code_full": "CA-ON",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Ontario"
+                        }
+                    }
+                },
+                "country": {
+                    "mapbox_id": "dXJuOm1ieHBsYzpJaWM",
+                    "name": "Canada",
+                    "wikidata_id": "Q16",
+                    "country_code": "CA",
+                    "country_code_alpha_3": "CAN",
+                    "translations": {
+                        "en": {
+                            "language": "en",
+                            "name": "Canada"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "attribution": "NOTICE: © 2025 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}
